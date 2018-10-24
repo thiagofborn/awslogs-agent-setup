@@ -5,12 +5,12 @@ Public Domain - Do whatever you want with the code. Period. No need to mention m
 
 You can find the original code at: https://s3.amazonaws.com/aws-cloudwatch/downloads/latest/awslogs-agent-setup.py
 
-### To use
+### How to use: 
 ```
 sudo python awslogs-agent-setup.py --region us-east-1 --http-proxy http://your/proxy --https-proxy http://your/proxy --no-proxy 169.254.169.254
 ```
 
-### Local Machine no proxy 
+### Installing on a local host no proxy: 
 ```
 sudo python awslogs-agent-setup.py --region us-east-1 --no-proxy 169.254.169.254
 ```
