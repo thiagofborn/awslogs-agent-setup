@@ -1,5 +1,5 @@
 # awslogs-agent-setup
-Use at your own risk. Agent that installs the awslogs on an host, with a small fix to Amazon Linux 2
+Use at your own risk. Agent that installs the awslogs on a host, with a small fix to Amazon Linux 2
 
 Public Domain. Probably AWS will fix the repositories in a near future. 
 
