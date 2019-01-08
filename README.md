@@ -1,7 +1,7 @@
 # awslogs-agent-setup
-Use at your own risk. 
+Use at your own risk. Agent that installs the awslogs on an host, with a small fix to Amazon Linux 2
 
-Public Domain - Do whatever you want with the code. Period. No need to mention me ever again. You can forget I ever existed.
+Public Domain. Probably AWS will fix the repositories in a near future. 
 
 You can find the original code at: https://s3.amazonaws.com/aws-cloudwatch/downloads/latest/awslogs-agent-setup.py
 
